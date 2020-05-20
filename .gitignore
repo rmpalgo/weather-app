@@ -1,0 +1,4 @@
+#this is where you put all the files you don't want in github
+.idea
+*.iml
+keys.js
